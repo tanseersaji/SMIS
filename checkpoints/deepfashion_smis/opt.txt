@@ -1,6 +1,6 @@
             D_steps_per_G: 1                             
              aspect_ratio: 1.0                           
-                batchSize: 8                             	[default: 1]
+                batchSize: 4                             	[default: 1]
                     beta1: 0.5                           
                     beta2: 0.999                         
       cache_filelist_read: False                         
@@ -16,7 +16,7 @@
              display_freq: 200                           
           display_winsize: 256                           
                  gan_mode: hinge                         
-                  gpu_ids: 0,1,2,3                       	[default: 0]
+                  gpu_ids: 0,1                           	[default: 0]
                 init_type: xavier                        
             init_variance: 0.02                          
                   isTrain: True                          	[default: None]

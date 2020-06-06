@@ -12,3 +12,23 @@
 (epoch: 1, iters: 600, time: 0.822) KLD: 0.317 GAN: 0.150 GAN_Feat: 7.938 VGG: 6.709 D_Fake: 1.171 D_real: 0.742 
 (epoch: 1, iters: 800, time: 0.817) KLD: 0.195 GAN: 0.668 GAN_Feat: 7.368 VGG: 6.832 D_Fake: 0.451 D_real: 1.386 
 (epoch: 1, iters: 1000, time: 0.818) KLD: 0.188 GAN: 0.370 GAN_Feat: 8.436 VGG: 6.887 D_Fake: 0.674 D_real: 0.690 
+================ Training Loss (Sat Jun  6 06:04:38 2020) ================
+(epoch: 1, iters: 200, time: 0.799) KLD: 0.095 GAN: 0.343 GAN_Feat: 9.172 VGG: 8.046 D_Fake: 0.703 D_real: 1.287 
+(epoch: 1, iters: 400, time: 0.782) KLD: 0.064 GAN: 0.094 GAN_Feat: 8.020 VGG: 6.943 D_Fake: 0.965 D_real: 0.925 
+(epoch: 1, iters: 600, time: 0.769) KLD: 0.052 GAN: -0.103 GAN_Feat: 8.857 VGG: 7.199 D_Fake: 1.171 D_real: 0.575 
+(epoch: 1, iters: 800, time: 0.796) KLD: 0.074 GAN: -0.111 GAN_Feat: 8.482 VGG: 6.602 D_Fake: 1.404 D_real: 0.460 
+(epoch: 1, iters: 1000, time: 0.774) KLD: 0.185 GAN: 0.232 GAN_Feat: 8.135 VGG: 6.139 D_Fake: 0.847 D_real: 0.766 
+================ Training Loss (Sat Jun  6 06:44:48 2020) ================
+================ Training Loss (Sat Jun  6 06:46:48 2020) ================
+(epoch: 1, iters: 200, time: 0.820) KLD: 0.071 GAN: 0.289 GAN_Feat: 8.399 VGG: 7.162 D_Fake: 0.737 D_real: 1.219 
+(epoch: 1, iters: 400, time: 0.800) KLD: 0.058 GAN: 0.051 GAN_Feat: 9.026 VGG: 6.691 D_Fake: 1.054 D_real: 0.882 
+(epoch: 1, iters: 600, time: 0.792) KLD: 0.133 GAN: 0.466 GAN_Feat: 8.701 VGG: 6.918 D_Fake: 0.712 D_real: 1.194 
+(epoch: 1, iters: 800, time: 0.782) KLD: 0.184 GAN: 0.341 GAN_Feat: 10.362 VGG: 6.800 D_Fake: 1.167 D_real: 0.654 
+(epoch: 1, iters: 1000, time: 0.772) KLD: 0.219 GAN: -0.035 GAN_Feat: 9.908 VGG: 7.067 D_Fake: 1.292 D_real: 0.564 
+================ Training Loss (Sat Jun  6 07:37:20 2020) ================
+(epoch: 1, iters: 200, time: 0.802) KLD: 0.050 GAN: 0.002 GAN_Feat: 9.034 VGG: 7.582 D_Fake: 1.064 D_real: 0.914 
+(epoch: 1, iters: 400, time: 0.789) KLD: 0.046 GAN: 0.157 GAN_Feat: 7.336 VGG: 7.348 D_Fake: 0.868 D_real: 1.007 
+================ Training Loss (Sat Jun  6 09:18:11 2020) ================
+(epoch: 1, iters: 200, time: 1.475) KLD: 0.079 GAN: -0.387 GAN_Feat: 7.809 VGG: 6.980 D_Fake: 1.431 D_real: 0.618 
+(epoch: 1, iters: 400, time: 1.469) KLD: 0.082 GAN: 0.057 GAN_Feat: 11.446 VGG: 6.589 D_Fake: 1.112 D_real: 0.578 
+(epoch: 1, iters: 600, time: 1.492) KLD: 0.215 GAN: -0.111 GAN_Feat: 8.539 VGG: 7.314 D_Fake: 1.138 D_real: 0.488 
